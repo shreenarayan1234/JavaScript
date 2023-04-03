@@ -1,0 +1,13 @@
+console.log("Result of typeof operator");
+let a=1;
+let b="shree";
+let c=5.5;
+let d=true;
+let e=null;
+let f;
+console.log("Type of a is "+ (typeof a));
+console.log("Type of b is "+ (typeof b));
+console.log("Type of c is "+ (typeof c));
+console.log("Type of d is "+ (typeof d));
+console.log("Type of e is "+ (typeof e));
+console.log("Type of f is "+ (typeof f));
